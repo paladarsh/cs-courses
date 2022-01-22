@@ -1,0 +1,63 @@
+The quiz#1 marks have been sent to those who submitted. The following is
+the statistics.
+
+Number of submissions: 149
+Mean                 :   3.23/6
+Median               :   3.50/6
+Max                  :   6.00/6
+
+The quiz#2 marks have been sent to those who submitted. The following is
+the statistics.
+
+Number of submissions: 148
+Mean                 :   3.57/6
+Median               :   4.00/6
+Max                  :   6.00/6
+
+I am glad to note that the statistics are slightly better than quiz#1.
+
+The mid-semester examination marks have been sent. The following is the
+statistics.
+
+Number of submissions: 151
+Mean                 :  41.42/90
+Median               :  40.00/90
+Max                  :  89.00/90
+
+The quiz#3 marks have been sent to those who submitted. The following is
+the statistics.
+
+Number of submissions: 149
+Mean                 :   3.698/6
+Median               :   4.000/6
+Max                  :   6.000/6
+
+Good to see that the mean has improved further compared to quiz#2.
+
+
+The quiz#4 marks have been sent to those who submitted. The following is
+the statistics.
+
+Number of submissions: 148
+Mean                 :   3.497/6
+Median               :   3.500/6
+Max                  :   6.000/6
+
+The quiz#5 marks have been sent to those who submitted. The following is
+the statistics.
+
+Number of submissions: 146
+Mean                 :   4.263/6
+Median               :   5.000/6
+Max                  :   6.000/6
+
+Dear All,
+
+The updated quiz#6 marks have been sent. The following is the updated
+statistics.
+
+Number of submissions: 146
+Mean                 :   4.114/6
+Median               :   4.500/6
+Max                  :   6.000/6
+
